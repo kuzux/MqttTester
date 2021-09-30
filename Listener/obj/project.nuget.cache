@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDJq1DzwPMYsVJ2kt7zvRRwlO8WgS2QC2bHYT5g/yv1N40TtlYyYN6INObZAfNe6iT6C3T58AaOjJxoZ1Ae2ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\MqttTester\\Listener\\Listener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mqttnet\\3.0.16\\mqttnet.3.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
