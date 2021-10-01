@@ -83,7 +83,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>$(USERPROFILE)\vcpkg\installed\x64-windows\include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(USERPROFILE)\vcpkg\installed\x64-windows\lib;$(LibraryPath)</LibraryPath>
+    <LibraryPath>$(USERPROFILE)\vcpkg\installed\x64-windows\debug\lib;$(LibraryPath)</LibraryPath>
     <OutDir>bin\$(Configuration)\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">

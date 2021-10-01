@@ -39,7 +39,6 @@ int main()
     mqtt::create_options opts(MQTTVERSION_3_1);
     mqtt::async_client client(addr, clientId, opts);
 
-    // Running a debug build on x64 seems to fail :(
     auto options = mqtt::connect_options();
     options.set_mqtt_version(MQTTVERSION_3_1);
     // options.set_clean_session(false);

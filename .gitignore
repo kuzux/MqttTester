@@ -4,3 +4,4 @@ bin
 .vs
 **/Debug
 **/Release
+MqttTester/*.dll
